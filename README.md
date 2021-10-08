@@ -1,3 +1,3 @@
 # yingying
 Blog's access.
-Background illustrate by novelance.
+Background illustrated by novelance.
