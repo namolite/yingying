@@ -1,3 +1,3 @@
 # yingying
-Blog's access.
+Blog's assets.
 Background illustrated by novelance.
