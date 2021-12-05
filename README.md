@@ -1,4 +1,4 @@
 # yingying
-Blog's assets.
+Blog's assets!
 Background illustrated by novelance.
 
